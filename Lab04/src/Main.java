@@ -47,7 +47,7 @@ public class Main {
         assertTrue( "King of Hearts".equals( c5.toString() ));
         assertTrue( "Queen of Diamonds".equals( c6.toString() ));
         assertTrue( "Jack of Clubs".equals( c7.toString() ));
-        assertTrue( "10 of Spadse".equals( c8.toString() ));
+        assertTrue( "10 of Spades".equals( c8.toString() ));
         assertTrue( "4 of Diamonds".equals( c4.toString() ));
     }
     
